@@ -55,7 +55,7 @@ Food_Finder_Improved/
    ```powershell
    $env:DB_HOST="localhost"
    $env:DB_USER="root"
-   $env:DB_PASSWORD="your_mysql_password"
+   $env:DB_PASSWORD="nps@123"
    $env:DB_NAME="food_finder"
    ```
 
